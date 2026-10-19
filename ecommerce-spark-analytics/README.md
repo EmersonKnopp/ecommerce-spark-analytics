@@ -81,9 +81,9 @@ Parâmetros opcionais do gerador: `--customers`, `--orders`, `--seed`.
 
 Após rodar `python -m src.report`, os gráficos ficam em `docs/images/`:
 
-![Receita mensal](docs/images/receita_mensal.png)
-![Segmentos RFM](docs/images/segmentos_rfm.png)
-![Retenção por coorte](docs/images/retencao_coortes.png)
+![Receita mensal](receita_mensal.png)
+![Segmentos RFM](segmentos_rfm.png)
+![Retenção por coorte](retencao_coortes.png)
 
 ## Decisões técnicas
 
